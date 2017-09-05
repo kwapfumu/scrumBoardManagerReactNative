@@ -1,1 +1,3 @@
-# scrumBoardManagerReactNative
+# scrumBoardManagerReactNative 
+
+## Implemented just to get acquainted with React native...further improvements might be updated in a month or so as currently busy with another project...
